@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>สินค้าทั้งหมด - Body Scent</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="container navbar">
+        <div class="logo"><a href="index.html">BODY SCENT</a></div>
+        <nav class="nav-links">
+            <a href="index.html">หน้าแรก</a>
+            <a href="product.html" class="active">สินค้าทั้งหมด</a>
+        </nav>
+    </header>
+
+    <main class="container">
+        <section class="product-page-header">
+            <h1 class="brand-font" style="font-size: 2.8rem; margin-bottom: 0.5rem;">Our Collections</h1>
+            <p style="color: var(--text-muted);">เลือกสรรกลิ่นหอมบริสุทธิ์ที่พร้อมโอบล้อมกายคุณตลอดวัน</p>
+        </section>
+
+        <div id="filter-bar" class="filter-bar">
+            <button class="filter-btn active" data-mood="all">ทั้งหมด</button>
+            <button class="filter-btn" data-mood="fresh">Fresh (สดชื่น)</button>
+            <button class="filter-btn" data-mood="sweet">Sweet (หวานละมุน)</button>
+            <button class="filter-btn" data-mood="confident">Confident (มั่นใจ)</button>
+            <button class="filter-btn" data-mood="romance">Romance (โรแมนติก)</button>
+        </div>
+
+        <div id="product-list" class="product-grid">
+            <!-- Rendered dynamically by script.js -->
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2026 Body Scent. Essence of Elegance. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

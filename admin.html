@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ระบบจัดการคำสั่งซื้อ - Body Scent Admin</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="container navbar">
+        <div class="logo"><a href="index.html">BODY SCENT</a> <span class="admin-badge">Admin System</span></div>
+    </header>
+
+    <main class="container">
+        <section class="admin-section">
+            <h1 class="brand-font" style="font-size: 2.2rem; margin-bottom: 0.5rem;">รายการคำสั่งซื้อทั้งหมด</h1>
+            <p style="color: var(--text-muted); font-size: 0.9rem;">ข้อมูลรายการสั่งซื้อจากลูกค้าที่บันทึกผ่านระบบ</p>
+
+            <div class="table-responsive">
+                <table id="ordersTable" class="orders-table">
+                    <thead>
+                        <tr>
+                            <th>วันเวลา</th>
+                            <th>ชื่อลูกค้า</th>
+                            <th>เบอร์โทร / Line</th>
+                            <th>รายการสินค้า</th>
+                            <th>จำนวนเงินรวม (บาท)</th>
+                            <th>หมายเหตุ</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- Data populated by script.js -->
+                    </tbody>
+                </table>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2026 Body Scent. Admin Management System</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

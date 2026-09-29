@@ -1,0 +1,102 @@
+[
+  {
+    "id": "spray-fresh-30",
+    "name": "Body Spray Fresh (30ml)",
+    "mood": "fresh",
+    "type": "spray",
+    "size": "30ml",
+    "price": 89,
+    "image": "images/fresh.jpg",
+    "description": "น้ำหอมละอองละเอียดไซส์พกพา เติมความสดชื่นโปร่งสบายได้ทันทีตลอดวัน"
+  },
+  {
+    "id": "spray-fresh-100",
+    "name": "Body Spray Fresh (100ml)",
+    "mood": "fresh",
+    "type": "spray",
+    "size": "100ml",
+    "price": 199,
+    "image": "images/fresh.jpg",
+    "description": "ไซส์ใหญ่จุใจ ให้คุณเริ่มวันใหม่ด้วยความหอมโปร่งสะอาด สะอาดสดชื่นได้ทุกวัน"
+  },
+  {
+    "id": "spray-sweet-30",
+    "name": "Body Spray Sweet (30ml)",
+    "mood": "sweet",
+    "type": "spray",
+    "size": "30ml",
+    "price": 89,
+    "image": "images/sweet.jpg",
+    "description": "เพิ่มความน่ารักสดใสไซส์พกพา มอบกลิ่นหอมหวานละมุนอบอุ่นใจในทุกทริป"
+  },
+  {
+    "id": "spray-sweet-100",
+    "name": "Body Spray Sweet (100ml)",
+    "mood": "sweet",
+    "type": "spray",
+    "size": "100ml",
+    "price": 199,
+    "image": "images/sweet.jpg",
+    "description": "เติมความละมุนอ่อนโยนได้ทุกฉากชีวิต ด้วยน้ำหอมกลิ่นหวานอบอุ่นไซส์คุ้มค่า"
+  },
+  {
+    "id": "spray-confident-30",
+    "name": "Body Spray Confident (30ml)",
+    "mood": "confident",
+    "type": "spray",
+    "size": "30ml",
+    "price": 89,
+    "image": "images/confident.jpg",
+    "description": "พกความมั่นใจไปได้ทุกที่ เสริมเสน่ห์ความนิ่งดูดีในทุกภารกิจ"
+  },
+  {
+    "id": "spray-confident-100",
+    "name": "Body Spray Confident (100ml)",
+    "mood": "confident",
+    "type": "spray",
+    "size": "100ml",
+    "price": 199,
+    "image": "images/confident.jpg",
+    "description": "มอบกลิ่นหอมสุภาพเรียบหรูขวดใหญ่ ให้คุณพร้อมลุยทุกงานสำคัญได้อย่างเต็มที่"
+  },
+  {
+    "id": "spray-romance-30",
+    "name": "Body Spray Romance (30ml)",
+    "mood": "romance",
+    "type": "spray",
+    "size": "30ml",
+    "price": 89,
+    "image": "images/romance.jpg",
+    "description": "น้ำหอมไซส์ทดลองฉีดความหวานลุ่มลึก เพิ่มเสน่ห์สะกดใจได้ทุกเวลา"
+  },
+  {
+    "id": "spray-romance-100",
+    "name": "Body Spray Romance (100ml)",
+    "mood": "romance",
+    "type": "spray",
+    "size": "100ml",
+    "price": 199,
+    "image": "images/romance.jpg",
+    "description": "เติมเสน่ห์ตราตรึงใจด้วยความหอมหวานเย้ายวนขวดใหญ่ สำหรับโอกาสพิเศษของคุณ"
+  },
+  {
+    "id": "rollon-fresh",
+    "name": "Roll-on Fresh",
+    "mood": "fresh",
+    "type": "rollon",
+    "size": "50ml",
+    "price": 149,
+    "image": "images/fresh.jpg",
+    "description": "ปกป้องกลิ่นกายอย่างมั่นใจ พร้อมวงแขนหอมสะอาดสดชื่น เบาสบายตลอดวัน"
+  },
+  {
+    "id": "rollon-sweet",
+    "name": "Roll-on Sweet",
+    "mood": "sweet",
+    "type": "rollon",
+    "size": "50ml",
+    "price": 149,
+    "image": "images/sweet.jpg",
+    "description": "ปกป้องอย่างอ่อนโยน มอบความแห้งสบายพร้อมกลิ่นหอมหวานละมุนชวนสัมผัส"
+  }
+]
